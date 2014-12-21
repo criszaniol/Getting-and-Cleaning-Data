@@ -1,9 +1,6 @@
----
-title: "README"
-author: "Czaniol"
-date: "21-12-2014"
-output: html_document
----
+# title: "README"
+##### author: "Czaniol"
+##### date: "21-12-2014"
 
 ### Introduction
 
