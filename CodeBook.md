@@ -1,9 +1,7 @@
----
-title: "Codebook - Course Project"
-author: "Czaniol"
-date: "21-12-2014"
-output: html_document
----
+
+# "Codebook - Course Project"
+#### author: "Czaniol"
+#### date: "21-12-2014"
 
 ### Data
 
